@@ -15,9 +15,8 @@
     <dependencies>
         <dependency>
             <groupId>org.hibernate</groupId>
-            <artifactId>hibernate-core</artifactId>
-            <version>6.1.6.Final</version>
-            <type>pom</type>
+            <artifactId>hibernate-core-jakarta</artifactId>
+            <version>5.6.14.Final</version>
         </dependency>
         <dependency>
             <groupId>mysql</groupId>
